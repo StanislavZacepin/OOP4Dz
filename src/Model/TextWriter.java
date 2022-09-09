@@ -19,9 +19,7 @@ public class TextWriter <T> {
              String task = fileTask.getText();
 
             writer.write("id="+id +" fio="+fio +" priority="+priority +" date="+date +" task="+task);
-            // запись по символам
-            writer.append('\n');
-            writer.append('E');
+
 
             writer.flush();
         }
