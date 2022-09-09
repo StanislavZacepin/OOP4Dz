@@ -1,8 +1,8 @@
 package Entity;
 
-public interface CommunicationText {
+public interface CommunicationText <T> {
 
-    void saveText();
-    void loadText();
+    void saveText(T object);
+    void loadText(T object);
 
 }

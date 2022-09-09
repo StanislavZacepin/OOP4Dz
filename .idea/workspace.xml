@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6b8794-9c4f-4298-a174-ac1c778ad0af" name="Changes" comment="Start">
-      <change afterPath="$PROJECT_DIR$/src/Entity/Priority.java" afterDir="false" />
+    <list default="true" id="3d6b8794-9c4f-4298-a174-ac1c778ad0af" name="Changes" comment="Интерфес с методами save and load">
+      <change afterPath="$PROJECT_DIR$/src/Entity/FileTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/TextReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/TextWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/CommunicationText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/CommunicationText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662720792027</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Перечисления приоритета">
+      <created>1662721084001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721084001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Интерфес с методами save and load">
+      <created>1662721296796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721296796</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+    <MESSAGE value="Перечисления приоритета" />
+    <MESSAGE value="Интерфес с методами save and load" />
+    <option name="LAST_COMMIT_MESSAGE" value="Интерфес с методами save and load" />
   </component>
 </project>
