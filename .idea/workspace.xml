@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6b8794-9c4f-4298-a174-ac1c778ad0af" name="Changes" comment="Интерфес с методами save and load">
-      <change afterPath="$PROJECT_DIR$/src/Entity/FileTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/TextReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/TextWriter.java" afterDir="false" />
+    <list default="true" id="3d6b8794-9c4f-4298-a174-ac1c778ad0af" name="Changes" comment="Потготовка считывания и записи файла">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/CommunicationText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/CommunicationText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/FileTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/FileTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662721296796</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Потготовка считывания и записи файла">
+      <created>1662722776015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662722776015</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +102,7 @@
     <MESSAGE value="Start" />
     <MESSAGE value="Перечисления приоритета" />
     <MESSAGE value="Интерфес с методами save and load" />
-    <option name="LAST_COMMIT_MESSAGE" value="Интерфес с методами save and load" />
+    <MESSAGE value="Потготовка считывания и записи файла" />
+    <option name="LAST_COMMIT_MESSAGE" value="Потготовка считывания и записи файла" />
   </component>
 </project>

@@ -10,6 +10,14 @@ public abstract class Text implements CommunicationText {
     private Date date;
     private String task;
 
+    public Text(Integer id, String fio, Priority priority,Date date,String task){
+
+        this.id = id;
+        this.fio = fio;
+        this.priority = priority;
+        this.date = date;
+        this.task = task;
+    }
 
 
     public String getText() {
