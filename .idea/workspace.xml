@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6b8794-9c4f-4298-a174-ac1c778ad0af" name="Changes" comment="Потготовка считывания и записи файла">
+    <list default="true" id="3d6b8794-9c4f-4298-a174-ac1c778ad0af" name="Changes" comment="Тест данные">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/FileTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/FileTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/TextWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/TextWriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662722776015</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Тест данные">
+      <created>1662724142461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662724142461</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +108,7 @@
     <MESSAGE value="Перечисления приоритета" />
     <MESSAGE value="Интерфес с методами save and load" />
     <MESSAGE value="Потготовка считывания и записи файла" />
-    <option name="LAST_COMMIT_MESSAGE" value="Потготовка считывания и записи файла" />
+    <MESSAGE value="Тест данные" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тест данные" />
   </component>
 </project>
